@@ -1,0 +1,179 @@
+{
+  "profile": {
+    "name": "Simran",
+    "style_persona": "Classic",
+    "body_type": "Hourglass",
+    "height": "5'2\"",
+    "gender": "Feminine"
+  },
+  "wardrobe": [
+    {
+      "id": 1,
+      "category": "Tops",
+      "name": "Top V neck",
+      "colour": "White",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "category": "Tops",
+      "name": "Top V neck",
+      "colour": "Black",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "category": "Tops",
+      "name": "Top V neck",
+      "colour": "Red",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "category": "Bottoms",
+      "name": "Jeans",
+      "colour": "Black",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "category": "Bottoms",
+      "name": "Jeans",
+      "colour": "Blue",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "category": "Bottoms",
+      "name": "Joggers Puffed",
+      "colour": "Black",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 7,
+      "category": "Bottoms",
+      "name": "Joggers Puffed",
+      "colour": "Olive Green",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "category": "Bottoms",
+      "name": "Joggers",
+      "colour": "Grey",
+      "brand": "Hnm",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "category": "Shoes",
+      "name": "Jordan",
+      "colour": "White and Light BLue",
+      "brand": "Nike",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "category": "Shoes",
+      "name": "9060",
+      "colour": "White and Grey",
+      "brand": "New Balance",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "category": "Shoes",
+      "name": "Boots",
+      "colour": "Black",
+      "brand": "Zara",
+      "notes": ""
+    },
+    {
+      "id": 12,
+      "category": "Shoes",
+      "name": "Heels",
+      "colour": "Black",
+      "brand": "Zara",
+      "notes": ""
+    },
+    {
+      "id": 13,
+      "category": "Shoes",
+      "name": "Heels",
+      "colour": "White",
+      "brand": "Zara",
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "category": "Tops",
+      "name": "Crop Shirt",
+      "colour": "White",
+      "brand": "Lifestyle",
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "category": "Tops",
+      "name": "Crop Top Net",
+      "colour": "White",
+      "brand": "Lifestyle",
+      "notes": ""
+    },
+    {
+      "id": 16,
+      "category": "Tops",
+      "name": "Leather Jacket",
+      "colour": "Black",
+      "brand": "CK",
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "category": "Tops",
+      "name": "Puufer Jacket",
+      "colour": "Black",
+      "brand": "CK",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "category": "Tops",
+      "name": "Puufer Jacket",
+      "colour": "White",
+      "brand": "CK",
+      "notes": ""
+    },
+    {
+      "id": 19,
+      "category": "Dresses & Jumpsuits",
+      "name": "Body Con",
+      "colour": "Purple",
+      "brand": "Lifestyle",
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "category": "Dresses & Jumpsuits",
+      "name": "Body Con Short",
+      "colour": "Maroon",
+      "brand": "Lifestyle",
+      "notes": ""
+    },
+    {
+      "id": 21,
+      "category": "Dresses & Jumpsuits",
+      "name": "Floral Dress",
+      "colour": "Light Blue",
+      "brand": "Lifestyle",
+      "notes": ""
+    }
+  ]
+}
