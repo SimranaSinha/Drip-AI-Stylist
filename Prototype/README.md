@@ -53,6 +53,3 @@ Discover your colour season and the shades that make you shine.
 - [Streamlit](https://streamlit.io/) — Web framework
 - [Anthropic Claude](https://www.anthropic.com/) — AI engine powering style recommendations and colour analysis
 
-## Author
-
-**SimranaSinha** — [GitHub](https://github.com/SimranaSinha)
