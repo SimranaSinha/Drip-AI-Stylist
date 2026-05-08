@@ -18,8 +18,26 @@ Discover your colour season and the shades that make you shine.
 - ✨ **Outfit Generator** — AI-generated outfit suggestions
 - 💬 **AI Chat** — Chat with your personal AI stylist
 
-## Getting Started
+## 📁 Structure of Repo
+```
+💧 Drip-AI-Stylist/
+└── 📁 Prototype/
+    ├── 🚀 app.py                  # Main Streamlit app entry point
+    ├── 🗃️ drip_data.json          # Local data storage
+    ├── 📦 requirements.txt        # Python dependencies
+    ├── 📝 README.md
+    └── 📁 utils/
+        ├── 🔧 __init__.py
+        ├── 💬 chat.py             # AI Chat feature
+        ├── 🎨 colour_analysis.py  # Colour season analysis
+        ├── 🏠 home.py             # Home dashboard
+        ├── ✨ outfit_generator.py # AI outfit suggestions
+        ├── 👤 profile.py          # User profile
+        ├── 💾 storage.py          # Data persistence
+        └── 👗 wardrobe.py         # Wardrobe management
+```
 
+## Getting Started
 ### Prerequisites
 
 - Python 3.8+
