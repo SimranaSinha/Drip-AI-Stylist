@@ -30,6 +30,7 @@ Drip is an AI-powered personal styling assistant — currently in **Early Access
 |---|---|
 | Frontend | HTML, CSS, JavaScript |
 | AI Backend | Claude API (Anthropic) |
+| Email | EmailJS |
 | Hosting | Netlify |
 
 ---
@@ -44,6 +45,8 @@ To deploy your own instance:
 1. Fork this repo
 2. Connect to [Netlify](https://netlify.com)
 3. Deploy!
+
+> 📬 When you join, you'll receive an automated confirmation email from DRIP — so your spot is saved and you'll be first to know when we launch.
 
 ---
 
