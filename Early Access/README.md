@@ -61,4 +61,4 @@ This project is open for early access exploration. See [LICENSE](../LICENSE) for
 
 ---
 
-<p align="center">Made with 💧 and a lot of good taste.</p>
+<p align="center">Made with love and a lot of good taste.</p>
