@@ -1,7 +1,7 @@
 # 👗 Drip — AI Stylist · Early Access
 
-> **Your personal AI stylist, powered by intelligence and taste.**
-> Drip helps you discover outfits, build your wardrobe, and dress with confidence — all from a chat interface.
+> *Style that knows you.*
+> Your wardrobe. Your colours. Your AI stylist that actually gets fashion.
 
 🔗 **Live App:** [drip-style1.netlify.app](https://drip-style1.netlify.app)
 
@@ -9,19 +9,18 @@
 
 ## ✨ What is Drip?
 
-Drip is an AI-powered personal styling assistant that understands your vibe, occasion, and wardrobe. Whether you're dressing for a date night, a job interview, or just want to refresh your everyday look — Drip has you covered.
-
-This repository contains the **Early Access** version of the Drip web app.
+Drip is an AI-powered personal styling assistant — currently in **Early Access with limited spots**. It understands your wardrobe, your season palette, and your vibe to give outfit advice that feels genuinely personal, not generic.
 
 ---
 
-## 🚀 Features (Early Access)
+## 🚀 Features
 
-- 🤖 **AI Style Chat** — Describe what you need, get real outfit suggestions instantly
-- 👗 **Occasion-Based Styling** — From casual to formal, Drip tailors recommendations to your event
-- 🎨 **Style Profiles** — Tell Drip your preferences and it learns your aesthetic
-- 📱 **Mobile-Friendly UI** — Looks great on any device
-- ⚡ **Fast & Lightweight** — Deployed on Netlify for instant load times
+- 🎨 **AI Colour Analysis** — Upload a photo to discover your season palette (Spring, Summer, Autumn, or Winter) and the shades that make you glow
+- 👗 **Outfit Generator** — Tell Drip the occasion, the vibe, the weather — get outfit combinations pulled from your actual wardrobe, not a mood board
+- 🗂️ **Wardrobe Management** — Digitise and organise everything you own
+- 💬 **Personal Style Chat** — Ask anything: what to wear, what to buy next, how to style that piece you never touch
+- 🌸 **Season Palette** — Personalised colour guidance based on your unique colouring
+- 🛍️ **Shopping Recommendations** — Curated picks that fill the gaps in your wardrobe
 
 ---
 
@@ -32,25 +31,6 @@ This repository contains the **Early Access** version of the Drip web app.
 | Frontend | HTML, CSS, JavaScript |
 | AI Backend | Claude API (Anthropic) |
 | Hosting | Netlify |
-
----
-
-## 🧪 Running Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/SimranaSinha/Drip-AI-Stylist.git
-
-# Navigate to Early Access
-cd "Drip-AI-Stylist/Early Access"
-
-# Open in browser
-open index.html
-# or use a local server:
-npx serve .
-```
-
-> **Note:** You'll need an Anthropic API key for the AI features to work. Add it to your environment or config file as specified in the code.
 
 ---
 
