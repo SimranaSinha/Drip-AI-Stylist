@@ -55,13 +55,6 @@ This is an early access project — feedback is gold! If you find bugs, have fea
 
 ---
 
-## 👩‍💻 Author
-
-**Simrana Sinha**
-- GitHub: [@SimranaSinha](https://github.com/SimranaSinha)
-
----
-
 ## 📄 License
 
 This project is open for early access exploration. See [LICENSE](../LICENSE) for details.
