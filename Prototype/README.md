@@ -1,4 +1,4 @@
-# Drip — Your AI Fashion Stylist (Prototype)
+# 💧 Drip — Your AI Fashion Stylist (Prototype)
 
 A personal AI stylist built with Streamlit that helps you discover your style, manage your wardrobe, and dress with confidence.
 
@@ -70,5 +70,4 @@ Discover your colour season and the shades that make you shine.
 
 - [Streamlit](https://streamlit.io/) — Web framework
 - [Anthropic Claude](https://www.anthropic.com/) — AI engine powering style recommendations and colour analysis
-
 
